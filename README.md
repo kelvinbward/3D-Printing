@@ -2,7 +2,7 @@
 
 ## Build Details
 Prices listed are pre-tax what it cost at the time of purchase.
-Total Ragrets: $535.25
+Total Ragrets: $646.23
 
 * **Base Printer:** [Ender-3 Pro](https://www.sainsmart.com/products/creality3d-ender-3-pro-3d-printer) - $184.99
 * **Enclosure:** [SainSmart 3D Printer Enclosure](https://www.amazon.com/SainSmart-Enclosure-Dust-Proof-Filament-Constant/dp/B089VLHJT6) - $0.00
@@ -15,6 +15,8 @@ Total Ragrets: $535.25
 * **Silent Board:** [Creality 4.2.7 Silent Board](https://www.amazon.com/gp/product/B09NMJMPN1/) - $39.99
 * **X-Axis Linear Rail:** [Creality X-Axis Linear Rail Kit](https://www.amazon.com/dp/B0DFLYN66Z/) - $27.99
 * **BIGTREETECH SFS:** [BIGTREETECH SFS V2.0](https://www.amazon.com/gp/product/B0C77J36T3/) - $22.99
+* **Raspberry PI 2B (1GB):** - $69.99
+* **Wifi Adpater:** [Panda Wireless® PAU0F AXE3000 Tri Band (2.4/5 / 6 GHz) WiFi 6E](https://www.amazon.com/gp/product/B0D972VY9B/) - $40.99
 
 ### TODO
 * **Direct Drive:** [Creality Direct Drive Extruder Kit](https://www.amazon.com/gp/product/B08J7N2LNL/) - $29.99
