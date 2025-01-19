@@ -2,6 +2,7 @@
 
 ## Build Details
 Prices listed are pre-tax what it cost at the time of purchase.
+Total Ragrets: $535.25
 
 * **Base Printer:** [Ender-3 Pro](https://www.sainsmart.com/products/creality3d-ender-3-pro-3d-printer) - $184.99
 * **Enclosure:** [SainSmart 3D Printer Enclosure](https://www.amazon.com/SainSmart-Enclosure-Dust-Proof-Filament-Constant/dp/B089VLHJT6) - $0.00
