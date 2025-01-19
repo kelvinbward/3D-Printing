@@ -18,6 +18,10 @@ Total Ragrets: $646.23
 * **Raspberry PI 2B (1GB):** - $69.99
 * **Wifi Adpater:** [Panda Wireless® PAU0F AXE3000 Tri Band (2.4/5 / 6 GHz) WiFi 6E](https://www.amazon.com/gp/product/B0D972VY9B/) - $40.99
 
+### Print Mods:
+* **[Ender 3 Filament Guide and BTT SFS V2.0 Mount](https://www.thingiverse.com/thing:6215623)
+* **[Ender 3 X Axis Ps-Eye Mount](https://www.thingiverse.com/thing:3464940)
+
 ### TODO
 * **Direct Drive:** [Creality Direct Drive Extruder Kit](https://www.amazon.com/gp/product/B08J7N2LNL/) - $29.99
 * **LED Light:** [Creality LED Light Kit](https://www.amazon.com/dp/B0BG37MCRX) - $18.99
