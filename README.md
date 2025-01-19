@@ -2,7 +2,6 @@
 
 ## Build Details
 Prices listed are pre-tax what it cost at the time of purchase.
-Total Ragrets: $646.23
 
 * **Base Printer:** [Ender-3 Pro](https://www.sainsmart.com/products/creality3d-ender-3-pro-3d-printer) - $184.99
 * **Enclosure:** [SainSmart 3D Printer Enclosure](https://www.amazon.com/SainSmart-Enclosure-Dust-Proof-Filament-Constant/dp/B089VLHJT6) - $0.00
@@ -26,3 +25,10 @@ Total Ragrets: $646.23
 * **Direct Drive:** [Creality Direct Drive Extruder Kit](https://www.amazon.com/gp/product/B08J7N2LNL/) - $29.99
 * **LED Light:** [Creality LED Light Kit](https://www.amazon.com/dp/B0BG37MCRX) - $18.99
 * **Y-Axis Linear Rail:** [Creativity Upgrade Y axis linear rail](https://www.amazon.com/dp/B0BN1Y53HS) - $45.99
+
+### Software:
+* [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - Mainsail Preconf
+  
+I intend to containerize services outside of the klipper host to reduce load on the PI2B at some point.
+
+Total Ragrets: $646.23
