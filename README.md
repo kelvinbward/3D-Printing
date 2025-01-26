@@ -17,10 +17,9 @@ Prices listed are pre-tax what it cost at the time of purchase.
 * **Raspberry PI 2B (1GB):** - $69.99
 * **Wifi Adpater:** [Panda Wireless® PAU0F AXE3000 Tri Band (2.4/5 / 6 GHz) WiFi 6E](https://www.amazon.com/gp/product/B0D972VY9B/) - $40.99
 
-
 ### Print Mods:
-* [Ender 3 X Axis Ps-Eye Mount](https://www.thingiverse.com/thing:3464940)
 * [BTT SFS V2.0 Smart Filament Sensor Holder](https://www.printables.com/model/808264-btt-sfs-v20-smart-filament-sensor-holder)
+* [Ender 3 - X axis linear rail conversion kit](https://www.printables.com/model/353529-ender-3-x-axis-linear-rail-conversion-kit)
 
 ### TODO:
 * **LED Light:** [Creality LED Light Kit](https://www.amazon.com/dp/B0BG37MCRX) - $18.99
@@ -29,6 +28,7 @@ Prices listed are pre-tax what it cost at the time of purchase.
 ### Been there, done that:
 * [Ender 3 Filament Guide and BTT SFS V2.0 Mount](https://www.thingiverse.com/thing:6215623)
 * **Hotend:** [Midcroswiss All Metal Hotend Kit](https://www.amazon.com/Micro-Hotend-Creality-Printers-TronXY/dp/B0789V2D7C/) - $63.50
+* [Ender 3 X Axis Ps-Eye Mount](https://www.thingiverse.com/thing:3464940)
 
 ### Software:
 * [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - Mainsail Preconf
