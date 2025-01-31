@@ -16,6 +16,7 @@ Prices listed are pre-tax what it cost at the time of purchase.
 * **BIGTREETECH SFS:** [BIGTREETECH SFS V2.0](https://www.amazon.com/gp/product/B0C77J36T3/) - $22.99
 * **Raspberry PI 2B (1GB):** - $69.99
 * **Wifi Adpater:** [Panda Wireless® PAU0F AXE3000 Tri Band (2.4/5 / 6 GHz) WiFi 6E](https://www.amazon.com/gp/product/B0D972VY9B/) - $40.99
+* **Y-Axis Linear Rail:** [Creativity Upgrade Y axis linear rail](https://www.amazon.com/dp/B0BN1Y53HS) - $45.99
 
 ### Print Mods:
 * [BTT SFS V2.0 Smart Filament Sensor Holder](https://www.printables.com/model/808264-btt-sfs-v20-smart-filament-sensor-holder)
@@ -23,16 +24,14 @@ Prices listed are pre-tax what it cost at the time of purchase.
 
 ### TODO:
 * **LED Light:** [Creality LED Light Kit](https://www.amazon.com/dp/B0BG37MCRX) - $18.99
-* **Y-Axis Linear Rail:** [Creativity Upgrade Y axis linear rail](https://www.amazon.com/dp/B0BN1Y53HS) - $45.99
 
 ### Been there, done that:
-* [Ender 3 Filament Guide and BTT SFS V2.0 Mount](https://www.thingiverse.com/thing:6215623)
-* **Hotend:** [Midcroswiss All Metal Hotend Kit](https://www.amazon.com/Micro-Hotend-Creality-Printers-TronXY/dp/B0789V2D7C/) - $63.50
-* [Ender 3 X Axis Ps-Eye Mount](https://www.thingiverse.com/thing:3464940)
+* [Ender 3 Filament Guide and BTT SFS V2.0 Mount](https://www.thingiverse.com/thing:6215623) - Need to print a mount, will reattach. 
+* **Hotend:** [Midcroswiss All Metal Hotend Kit](https://www.amazon.com/Micro-Hotend-Creality-Printers-TronXY/dp/B0789V2D7C/) - $63.50 - Left off as a spare with direct drive kit isntall.
+* [Ender 3 X Axis Ps-Eye Mount](https://www.thingiverse.com/thing:3464940) - Not currently in use, quality not worth using. 
 
 ### Software:
 * [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - Mainsail Preconf
   
-I intend to containerize services outside of the klipper host to reduce load on the PI2B at some point.
 
 Total Ragrets: $646.23
